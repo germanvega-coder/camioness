@@ -29,7 +29,7 @@ st.markdown("Aplicación web gratuita para la gestión y reducción del **15% en
 
 # Botón de ejecución
 if st.button("Ejecutar Simulación y Optimización", type="primary"):
-    st.success("¡Simulación completada con éxito!")[cite: 1]
+    st.success("¡Simulación completada con éxito!")
 
     # Cálculos basados en tus parámetros
     ciclo_promedio_base = tiempo_base_carguio + tiempo_base_transporte + 1.68
